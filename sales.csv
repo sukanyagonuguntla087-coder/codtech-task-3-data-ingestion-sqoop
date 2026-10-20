@@ -1,0 +1,6 @@
+sale_id,product_name,quantity,unit_price,sale_date
+1,Keyboard,2,799.00,2026-09-01
+2,Mouse,3,399.00,2026-09-02
+3,Monitor,1,8499.00,2026-09-03
+4,USB Cable,5,149.00,2026-09-04
+5,Headphones,2,1299.00,2026-09-05
